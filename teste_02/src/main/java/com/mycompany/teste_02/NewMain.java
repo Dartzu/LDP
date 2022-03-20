@@ -7,7 +7,7 @@ package com.mycompany.teste_02;
 
 /**
  *
- * @author useradsaacasdsvdsvdsfds
+ * @author user
  */
 public class NewMain {
 
