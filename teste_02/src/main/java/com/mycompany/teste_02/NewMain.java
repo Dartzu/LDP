@@ -7,12 +7,12 @@ package com.mycompany.teste_02;
 
 /**
  *
- * @author useradsaaca
+ * @author useradsaacasdsvdsvdsfds
  */
 public class NewMain {
 
     /**
-     * @param args the command line arguments
+     * @param args the command line argumentssddsgsdg
      */
     public static void main(String[] args) {
         // TODO code application logic here
